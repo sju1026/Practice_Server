@@ -1,0 +1,14 @@
+D:\20181034_1\20230507_ReadThread_TLS\03.Socket\DummyClient\bin\Debug\netcoreapp3.1\DummyClient.exe
+D:\20181034_1\20230507_ReadThread_TLS\03.Socket\DummyClient\bin\Debug\netcoreapp3.1\DummyClient.deps.json
+D:\20181034_1\20230507_ReadThread_TLS\03.Socket\DummyClient\bin\Debug\netcoreapp3.1\DummyClient.runtimeconfig.json
+D:\20181034_1\20230507_ReadThread_TLS\03.Socket\DummyClient\bin\Debug\netcoreapp3.1\DummyClient.runtimeconfig.dev.json
+D:\20181034_1\20230507_ReadThread_TLS\03.Socket\DummyClient\bin\Debug\netcoreapp3.1\DummyClient.dll
+D:\20181034_1\20230507_ReadThread_TLS\03.Socket\DummyClient\bin\Debug\netcoreapp3.1\DummyClient.pdb
+D:\20181034_1\20230507_ReadThread_TLS\03.Socket\DummyClient\obj\Debug\netcoreapp3.1\DummyClient.csproj.AssemblyReference.cache
+D:\20181034_1\20230507_ReadThread_TLS\03.Socket\DummyClient\obj\Debug\netcoreapp3.1\DummyClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\20181034_1\20230507_ReadThread_TLS\03.Socket\DummyClient\obj\Debug\netcoreapp3.1\DummyClient.AssemblyInfoInputs.cache
+D:\20181034_1\20230507_ReadThread_TLS\03.Socket\DummyClient\obj\Debug\netcoreapp3.1\DummyClient.AssemblyInfo.cs
+D:\20181034_1\20230507_ReadThread_TLS\03.Socket\DummyClient\obj\Debug\netcoreapp3.1\DummyClient.csproj.CoreCompileInputs.cache
+D:\20181034_1\20230507_ReadThread_TLS\03.Socket\DummyClient\obj\Debug\netcoreapp3.1\DummyClient.dll
+D:\20181034_1\20230507_ReadThread_TLS\03.Socket\DummyClient\obj\Debug\netcoreapp3.1\DummyClient.pdb
+D:\20181034_1\20230507_ReadThread_TLS\03.Socket\DummyClient\obj\Debug\netcoreapp3.1\DummyClient.genruntimeconfig.cache
