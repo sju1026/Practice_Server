@@ -7,30 +7,57 @@ using System.Threading.Tasks;
 
 namespace ServerCore
 {
+    class GameSession : Session
+    {
+        public override void OnConnected(EndPoint endPoint)
+        {
+            Console.WriteLine($"OnConnected : {endPoint}");
+
+            byte[] sendBuff = Encoding.UTF8.GetBytes("Welcome To MMORPG Server !");
+            Send(sendBuff);
+            Thread.Sleep(1000);
+            Disconnect();
+        }
+
+        public override void OnDisconnected(EndPoint endPoint)
+        {
+            Console.WriteLine($"OnDisconnected : {endPoint}");
+        }
+
+        public override void OnRecv(ArraySegment<byte> buffer)
+        {
+            string recvData = Encoding.UTF8.GetString(buffer.Array, buffer.Offset, buffer.Count);
+            Console.WriteLine($"[From Client] {recvData}");
+        }
+
+        public override void OnSend(int numOfBytes)
+        {
+            Console.WriteLine($"Transferred bytes: {numOfBytes}");
+        }
+    }
     class Program
     {
         static Listener _listener = new Listener();
+        //static void OnAcceptHandler(Socket clientSocket)
+        //{
+        //    try
+        //    {
+        //        GameSession session = new GameSession();
+        //        session.Start(clientSocket);
 
-        static void OnAcceptHandler(Socket clientSocket)
-        {
-            try
-            {
-                Session session = new Session();
-                session.Start(clientSocket);
+        //        byte[] sendBuff = Encoding.UTF8.GetBytes("Welcome To MMORPG Server !");
+        //        session.Send(sendBuff);
 
-                byte[] sendBuff = Encoding.UTF8.GetBytes("Welcome To MMORPG Server !");
-                session.Send(sendBuff);
+        //        Thread.Sleep(100);
 
-                Thread.Sleep(100);
-
-                session.Disconnect();
-                session.Disconnect();
-            }
-            catch (Exception e)
-            {
-                Console.WriteLine(e);
-            }
-        }
+        //        session.Disconnect();
+        //        session.Disconnect();
+        //    }
+        //    catch (Exception e)
+        //    {
+        //        Console.WriteLine(e);
+        //    }
+        //}
         static void Main(string[] args)
         {
             // DNS Domain Name System
@@ -41,7 +68,7 @@ namespace ServerCore
             IPAddress ipAddr =  ipHost.AddressList[0];
             IPEndPoint endPoint = new IPEndPoint(ipAddr, 7777);
 
-            _listener.init(endPoint, OnAcceptHandler);
+            _listener.init(endPoint, () => { return new GameSession(); });
             Console.WriteLine("Listening...");
 
             while (true)

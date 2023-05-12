@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\20181034_1\\20230507_ReadThread_TLS\\03.Socket\\ServerCore\\ServerCore.csproj",
+      "projectUniqueName": "C:\\Users\\mybom\\Documents\\GitHub\\Practice_Server\\20230507_ReadThread_TLS\\03.Socket\\ServerCore\\ServerCore.csproj",
       "projectName": "ServerCore",
-      "projectPath": "D:\\20181034_1\\20230507_ReadThread_TLS\\03.Socket\\ServerCore\\ServerCore.csproj",
+      "projectPath": "C:\\Users\\mybom\\Documents\\GitHub\\Practice_Server\\20230507_ReadThread_TLS\\03.Socket\\ServerCore\\ServerCore.csproj",
       "packagesPath": "C:\\Users\\mybom\\.nuget\\packages\\",
-      "outputPath": "D:\\20181034_1\\20230507_ReadThread_TLS\\03.Socket\\ServerCore\\obj\\",
+      "outputPath": "C:\\Users\\mybom\\Documents\\GitHub\\Practice_Server\\20230507_ReadThread_TLS\\03.Socket\\ServerCore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
