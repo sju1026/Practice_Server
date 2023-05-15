@@ -1,0 +1,17 @@
+C:\Users\mybom\Documents\GitHub\Practice_Server\20230507_ReadThread_TLS\03.Socket\Server\bin\Debug\netcoreapp3.1\Server.exe
+C:\Users\mybom\Documents\GitHub\Practice_Server\20230507_ReadThread_TLS\03.Socket\Server\bin\Debug\netcoreapp3.1\Server.deps.json
+C:\Users\mybom\Documents\GitHub\Practice_Server\20230507_ReadThread_TLS\03.Socket\Server\bin\Debug\netcoreapp3.1\Server.runtimeconfig.json
+C:\Users\mybom\Documents\GitHub\Practice_Server\20230507_ReadThread_TLS\03.Socket\Server\bin\Debug\netcoreapp3.1\Server.runtimeconfig.dev.json
+C:\Users\mybom\Documents\GitHub\Practice_Server\20230507_ReadThread_TLS\03.Socket\Server\bin\Debug\netcoreapp3.1\Server.dll
+C:\Users\mybom\Documents\GitHub\Practice_Server\20230507_ReadThread_TLS\03.Socket\Server\bin\Debug\netcoreapp3.1\Server.pdb
+C:\Users\mybom\Documents\GitHub\Practice_Server\20230507_ReadThread_TLS\03.Socket\Server\bin\Debug\netcoreapp3.1\ServerCore.dll
+C:\Users\mybom\Documents\GitHub\Practice_Server\20230507_ReadThread_TLS\03.Socket\Server\bin\Debug\netcoreapp3.1\ServerCore.pdb
+C:\Users\mybom\Documents\GitHub\Practice_Server\20230507_ReadThread_TLS\03.Socket\Server\obj\Debug\netcoreapp3.1\Server.csproj.AssemblyReference.cache
+C:\Users\mybom\Documents\GitHub\Practice_Server\20230507_ReadThread_TLS\03.Socket\Server\obj\Debug\netcoreapp3.1\Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mybom\Documents\GitHub\Practice_Server\20230507_ReadThread_TLS\03.Socket\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfoInputs.cache
+C:\Users\mybom\Documents\GitHub\Practice_Server\20230507_ReadThread_TLS\03.Socket\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfo.cs
+C:\Users\mybom\Documents\GitHub\Practice_Server\20230507_ReadThread_TLS\03.Socket\Server\obj\Debug\netcoreapp3.1\Server.csproj.CoreCompileInputs.cache
+C:\Users\mybom\Documents\GitHub\Practice_Server\20230507_ReadThread_TLS\03.Socket\Server\obj\Debug\netcoreapp3.1\Server.csproj.CopyComplete
+C:\Users\mybom\Documents\GitHub\Practice_Server\20230507_ReadThread_TLS\03.Socket\Server\obj\Debug\netcoreapp3.1\Server.dll
+C:\Users\mybom\Documents\GitHub\Practice_Server\20230507_ReadThread_TLS\03.Socket\Server\obj\Debug\netcoreapp3.1\Server.pdb
+C:\Users\mybom\Documents\GitHub\Practice_Server\20230507_ReadThread_TLS\03.Socket\Server\obj\Debug\netcoreapp3.1\Server.genruntimeconfig.cache

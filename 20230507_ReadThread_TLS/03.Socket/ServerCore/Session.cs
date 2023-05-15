@@ -14,7 +14,7 @@ namespace ServerCore
     //    public void OnSend(int numOfBytes) { }
     //    public void OnDisconnected(EndPoint endPoint) { }
     //}
-    abstract class Session
+    public abstract class Session
     {
         Socket _socket;
         int _disconnected = 0;
