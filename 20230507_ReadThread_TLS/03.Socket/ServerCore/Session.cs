@@ -18,7 +18,7 @@ namespace ServerCore
             while (true)
             {
                 // 최소한 헤더는 파싱할 수 있는지 확인
-                if (buffer.Count >= HeaderSize)
+                if (buffer.Count < HeaderSize)
                     break;
 
                 // 패킷이 완전체로 도착했는지 확인
