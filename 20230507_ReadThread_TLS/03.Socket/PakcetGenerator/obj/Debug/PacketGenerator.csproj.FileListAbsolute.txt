@@ -1,0 +1,13 @@
+C:\Users\mybom\Documents\GitHub\Practice_Server\20230507_ReadThread_TLS\03.Socket\PakcetGenerator\bin\PacketGenerator.exe
+C:\Users\mybom\Documents\GitHub\Practice_Server\20230507_ReadThread_TLS\03.Socket\PakcetGenerator\bin\PacketGenerator.deps.json
+C:\Users\mybom\Documents\GitHub\Practice_Server\20230507_ReadThread_TLS\03.Socket\PakcetGenerator\bin\PacketGenerator.runtimeconfig.json
+C:\Users\mybom\Documents\GitHub\Practice_Server\20230507_ReadThread_TLS\03.Socket\PakcetGenerator\bin\PacketGenerator.runtimeconfig.dev.json
+C:\Users\mybom\Documents\GitHub\Practice_Server\20230507_ReadThread_TLS\03.Socket\PakcetGenerator\bin\PacketGenerator.dll
+C:\Users\mybom\Documents\GitHub\Practice_Server\20230507_ReadThread_TLS\03.Socket\PakcetGenerator\bin\PacketGenerator.pdb
+C:\Users\mybom\Documents\GitHub\Practice_Server\20230507_ReadThread_TLS\03.Socket\PakcetGenerator\obj\Debug\PacketGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mybom\Documents\GitHub\Practice_Server\20230507_ReadThread_TLS\03.Socket\PakcetGenerator\obj\Debug\PacketGenerator.AssemblyInfoInputs.cache
+C:\Users\mybom\Documents\GitHub\Practice_Server\20230507_ReadThread_TLS\03.Socket\PakcetGenerator\obj\Debug\PacketGenerator.AssemblyInfo.cs
+C:\Users\mybom\Documents\GitHub\Practice_Server\20230507_ReadThread_TLS\03.Socket\PakcetGenerator\obj\Debug\PacketGenerator.csproj.CoreCompileInputs.cache
+C:\Users\mybom\Documents\GitHub\Practice_Server\20230507_ReadThread_TLS\03.Socket\PakcetGenerator\obj\Debug\PacketGenerator.dll
+C:\Users\mybom\Documents\GitHub\Practice_Server\20230507_ReadThread_TLS\03.Socket\PakcetGenerator\obj\Debug\PacketGenerator.pdb
+C:\Users\mybom\Documents\GitHub\Practice_Server\20230507_ReadThread_TLS\03.Socket\PakcetGenerator\obj\Debug\PacketGenerator.genruntimeconfig.cache

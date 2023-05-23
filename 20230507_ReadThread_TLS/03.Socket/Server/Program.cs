@@ -9,31 +9,16 @@ using ServerCore;
 
 namespace Server
 {
+
+
     class Program
     {
         static Listener _listener = new Listener();
-        //static void OnAcceptHandler(Socket clientSocket)
-        //{
-        //    try
-        //    {
-        //        GameSession session = new GameSession();
-        //        session.Start(clientSocket);
 
-        //        byte[] sendBuff = Encoding.UTF8.GetBytes("Welcome To MMORPG Server !");
-        //        session.Send(sendBuff);
-
-        //        Thread.Sleep(100);
-
-        //        session.Disconnect();
-        //        session.Disconnect();
-        //    }
-        //    catch (Exception e)
-        //    {
-        //        Console.WriteLine(e);
-        //    }
-        //}
         static void Main(string[] args)
         {
+            PacketManager.Instance.Register();
+
             // DNS Domain Name System
             // 172.1.2.3 => 문제 : 서버를 이전할 경우 ip주소가 변경될 수 있음=> 자동처리 x
             // 도메인을 등록할 경우 => 해당 IP탐색 가능
@@ -49,7 +34,6 @@ namespace Server
             {
                 ;
             }
-
         }
     }
 }
